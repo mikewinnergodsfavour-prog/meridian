@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1066-frontend-cleanup-a-cross-vault-fallback",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1066-frontend-cleanup-a-cross-vault-fallback": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1066-frontend-cleanup-a-cross-vault-fallback",
+    "origin"
+  ]
+}
